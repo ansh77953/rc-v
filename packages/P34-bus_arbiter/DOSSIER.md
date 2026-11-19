@@ -85,4 +85,4 @@ Tick every syllabus topic your work touched (main units: Unit 6).
 - [x] Register organisation, stack, addressing modes
 - [x] RISC vs CISC, multicore, GPU
 - [ ] Memory hierarchy, cache
-- [x] I/O interface, programmed / interrupt-driven I/O, DMA
+- [x] I/O interface, programmed / interrupt-driven I/O, DMA 
