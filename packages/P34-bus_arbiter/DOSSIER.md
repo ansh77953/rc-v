@@ -1,6 +1,6 @@
 # P34 Bus arbiter (CPU vs DMA) - dossier
 
-## U1 Digital logic
+## U1 Digital logic 
 My block is purely combinational. One input, dma_req, decides who controls the bus. This is the truth table for the control signals:
 |dma_req|grant| stall|addr, wdata, we|be|
 | :---: | :---: | :---: | :---: | :---: |
